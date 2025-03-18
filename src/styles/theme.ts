@@ -1,3 +1,4 @@
+
 import { DefaultTheme } from 'styled-components'
 
 declare module 'styled-components' {
@@ -59,6 +60,7 @@ const baseColors = {
     dark4: '#6A8589',
     dark5: '#596f72',
   },
+  lightpink: '#FFC0CB',
 }
 
 const spaceUnit = 1
